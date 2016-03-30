@@ -4,6 +4,7 @@ This repo is for the course project of Getting and Cleanning Data from Coursera.
 codebook and the output file "tidydata.txt"
 
 The scipt does the following:
+
 1.Download and unzip files 
 
 2.Read Files into variables
