@@ -14,8 +14,7 @@ The scipt does the following:
   2.2 Read Subject values
   
   2.3 Read Feature labels and values
-  
-  
+
 3. Merge the training data set with the test data set
 
 4. Set column names to data frames
